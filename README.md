@@ -10,7 +10,7 @@ I am a backend developer and devops for the past 7 years
 
 ### work:
 
-currently working at cloudteam.ai :cloud: , trying to optimize our customers cloud costs and processes
+currently working at [cloudteam.ai](https://cloudteam.ai/) :cloud: , trying to optimize our customers cloud costs and processes
 
 <!--
 **aviadm/aviadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
